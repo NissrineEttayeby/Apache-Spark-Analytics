@@ -13,7 +13,7 @@ The World Development Indicators from the World Bank contain over a thousand ann
 * SQL
 * Scala
 
-# Some visualizations from the project 
+#  Some visualizations from the project 
 > G-7 Country Birth Rates 1960-2013
 ![image](https://user-images.githubusercontent.com/108592629/236637487-33a8491f-8091-46a5-bf75-a3d4e0db78d9.png)
 
